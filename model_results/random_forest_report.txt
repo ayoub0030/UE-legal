@@ -1,0 +1,26 @@
+Random Forest Results:
+Validation Accuracy: 0.9861
+Test Accuracy: 0.9933
+Training time: 1.58 seconds
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.96      0.98      0.97       273
+   Directive       0.99      0.97      0.98       355
+  Regulation       1.00      1.00      1.00       592
+
+    accuracy                           0.99      1220
+   macro avg       0.98      0.98      0.98      1220
+weighted avg       0.99      0.99      0.99      1220
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.99      0.99      0.99      1793
+   Directive       0.90      0.96      0.93       240
+  Regulation       1.00      1.00      1.00      3967
+
+    accuracy                           0.99      6000
+   macro avg       0.96      0.98      0.97      6000
+weighted avg       0.99      0.99      0.99      6000

@@ -1,0 +1,26 @@
+Linear SVM Results:
+Validation Accuracy: 0.9754
+Test Accuracy: 0.9727
+Training time: 0.27 seconds
+
+Validation Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.95      0.96      0.95       273
+   Directive       0.97      0.99      0.98       355
+  Regulation       0.99      0.98      0.98       592
+
+    accuracy                           0.98      1220
+   macro avg       0.97      0.97      0.97      1220
+weighted avg       0.98      0.98      0.98      1220
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.97      0.95      0.96      1793
+   Directive       0.75      0.98      0.85       240
+  Regulation       0.99      0.98      0.99      3967
+
+    accuracy                           0.97      6000
+   macro avg       0.90      0.97      0.93      6000
+weighted avg       0.98      0.97      0.97      6000

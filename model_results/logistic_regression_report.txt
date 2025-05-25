@@ -1,0 +1,14 @@
+Logistic Regression Results:
+Accuracy: 0.9792
+Training time: 8.95 seconds
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.97      0.98      0.97      2725
+   Directive       0.85      0.98      0.91       355
+  Regulation       0.99      0.98      0.99      5920
+
+    accuracy                           0.98      9000
+   macro avg       0.94      0.98      0.96      9000
+weighted avg       0.98      0.98      0.98      9000

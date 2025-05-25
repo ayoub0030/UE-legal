@@ -1,0 +1,14 @@
+Gaussian Naive Bayes Results:
+Accuracy: 0.8338
+Training time: 4.17 seconds
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.77      0.79      0.78      2725
+   Directive       0.29      0.91      0.44       355
+  Regulation       0.98      0.85      0.91      5920
+
+    accuracy                           0.83      9000
+   macro avg       0.68      0.85      0.71      9000
+weighted avg       0.89      0.83      0.85      9000

@@ -1,0 +1,14 @@
+Support Vector Machine Results:
+Accuracy: 0.8713
+Training time: 2025.41 seconds
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Decision       0.74      0.91      0.82      2725
+   Directive       0.55      0.87      0.67       355
+  Regulation       0.99      0.85      0.92      5920
+
+    accuracy                           0.87      9000
+   macro avg       0.76      0.88      0.80      9000
+weighted avg       0.90      0.87      0.88      9000
